@@ -1,0 +1,8 @@
+{
+  "name": "Somaliland Disability and Handicap Organization",
+  "description": "Official portal of the Somaliland Disability and Handicap Organization, featuring programmatic advocacy, local member directory, news CMS, event calendar registration, and built-in AI accessibility services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
